@@ -1,0 +1,12 @@
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\bin\Debug\Kanaban501app.exe.config
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\bin\Debug\Kanaban501app.exe
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\bin\Debug\Kanaban501app.pdb
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\obj\Debug\Kanaban501app.csproj.AssemblyReference.cache
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\obj\Debug\Kanaban501app.csproj.SuggestedBindingRedirects.cache
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\obj\Debug\Kanaban501app.AddEdit.resources
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\obj\Debug\Kanaban501app.Kanaban501.resources
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\obj\Debug\Kanaban501app.Properties.Resources.resources
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\obj\Debug\Kanaban501app.csproj.GenerateResource.cache
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\obj\Debug\Kanaban501app.csproj.CoreCompileInputs.cache
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\obj\Debug\Kanaban501app.exe
+C:\Users\jcpar\Source\Repos\project-01-kanaban-jpartr\Kanaban501app\Kanaban501app\obj\Debug\Kanaban501app.pdb
